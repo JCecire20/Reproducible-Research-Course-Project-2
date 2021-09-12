@@ -19,7 +19,6 @@ Using the NOAA storm database this analysis clearly shows that tornados have the
 ```{r setup, echo=TRUE}
 library(dplyr)
 library(knitr)
-library(MacTex)
 ```
 
 ## Loading Data
